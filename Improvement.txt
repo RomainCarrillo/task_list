@@ -1,0 +1,13 @@
+Improvement to be made :
+
+Features & elements :
++ order tasks by deadline_date, creation_date (need to add à column in table "task")
++ "All tasks" tab
++ "Modify task" feature
++ footer > Romain Carrillo 2021 + GitHub link
+
+
+
+Code's architecture :
+- Use MVC pattern,
+- Use OOP,
